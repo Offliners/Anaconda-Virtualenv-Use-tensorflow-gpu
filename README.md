@@ -119,4 +119,4 @@ print(device_lib.list_local_devices())
 
 ![image23](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image23.PNG)
 
-若有讀取到NVIDIA顯卡表示`tensorflow-gpu`安裝成功
+若有讀取到NVIDIA顯卡表示`tensorflow-gpu`安裝成功，在此虛擬環境中的tensorflow都會使用GPU來計算
