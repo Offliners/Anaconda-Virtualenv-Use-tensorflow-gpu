@@ -15,5 +15,5 @@
 
 建議計算能力(Compute Capability) 大於3.0以上，使用tensorflow-gpu才會有明顯的成效
 
-![image2]()
+![image2](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image2.PNG)
 ## 安裝步驟
