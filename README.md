@@ -75,8 +75,18 @@ CUDA安裝軟體基本上會自動填入路徑
 #### 安裝cuDNN 7.6.5
 進入此網站 : https://developer.nvidia.com/rdp/cudnn-archive
 
-![image15](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image15.PNG)
-
 找到cuDNN 7.6.5 for CUDA 10.0
 
+![image15](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image15.PNG)
+
+安裝`Window 10`版的
+
 ![image16](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image16.PNG)
+
+下載完檔案後解壓縮會出現3的資料夾與1個文字檔
+
+![image17](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image17.PNG)
+
+將整個複製到`C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0`中
+
+![image18](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image18.PNG)
