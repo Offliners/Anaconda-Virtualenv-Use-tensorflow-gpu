@@ -37,10 +37,26 @@
 
 ![image6](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image6.PNG)
 
-#### 進入虛擬環境
+#### 4. 進入虛擬環境
 建立完成後，輸入`activate test_env`進入虛擬環境
 
 ![image7](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image7.PNG)
 
 當前方出現自己的環境名稱表示進入成功
+
 ![image8](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image8.PNG)
+
+#### 5. 安裝tensorflow-gpu
+輸入`pip install tensorflow-gpu==1.13.1`，安裝版本為1.13.1的tensorflow-gpu
+
+![image9](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image9.PNG)
+
+#### 6. 安裝 CUDA 10.0
+進入此網站 : https://developer.nvidia.com/cuda-toolkit-archive
+
+![image10](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image10.PNG)
+
+尋找`CUDA 10.0`並安裝
+
+![image11](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image11.PNG)
+
