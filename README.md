@@ -68,7 +68,11 @@
 
 ![image13](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image13.PNG)
 
-#### 安裝cuDNN 7.6.5
-進入此網站 : 
+CUDA安裝軟體基本上會自動填入路徑
 
-![image 14]
+![image14](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image14.PNG)
+
+#### 安裝cuDNN 7.6.5
+進入此網站 : https://developer.nvidia.com/rdp/cudnn-archive
+
+![image15](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image15.PNG)
