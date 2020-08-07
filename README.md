@@ -91,7 +91,7 @@ CUDA安裝軟體基本上會自動填入路徑
 
 ![image18](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image18.PNG)
 
-再進入環境變數看系統變數中的Path中
+再進入環境變數看系統變數中的Path中，雙擊兩下可看到系統路徑
 
 ![image19](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image19.PNG)
 
@@ -105,3 +105,18 @@ CUDA安裝軟體基本上會自動填入路徑
 若有跑出此畫面表示`CUDA 10.0`安裝成功
 
 ![image21](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image21.PNG)
+
+接著輸入`python`
+
+![image22](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image22.PNG)
+
+輸入以下指令
+```python
+from tensorflow.python.client import device_lib
+print(device_lib.list_local_devices())
+```
+[code](test.py)
+
+![image23](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image23.PNG)
+
+若有讀取到NVIDIA顯卡表示安裝成功
