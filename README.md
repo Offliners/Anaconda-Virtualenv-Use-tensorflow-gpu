@@ -60,3 +60,15 @@
 
 ![image11](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image11.PNG)
 
+一直按`下一步`就安裝完成
+
+![image12](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image12.PNG)
+
+確認是否有加入環境變數，在Window搜尋`環境變數`
+
+![image13](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image13.PNG)
+
+#### 安裝cuDNN 7.6.5
+進入此網站 : 
+
+![image 14]
