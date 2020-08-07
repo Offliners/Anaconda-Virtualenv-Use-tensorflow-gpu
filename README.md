@@ -76,3 +76,7 @@ CUDA安裝軟體基本上會自動填入路徑
 進入此網站 : https://developer.nvidia.com/rdp/cudnn-archive
 
 ![image15](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image15.PNG)
+
+找到cuDNN 7.6.5 for CUDA 10.0
+
+![image16](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image16.PNG)
