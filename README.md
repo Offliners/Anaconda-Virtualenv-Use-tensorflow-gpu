@@ -6,5 +6,8 @@
 ## 事前準備
 #### 1. 確認電腦是否有NVIDIA顯卡
 可以從裝置管理員中顯示卡看電腦是否有NVIDIA顯卡
-![image1]()
+
+![image1](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image1.PNG)
+
+#### 2. 查詢此顯卡的計算能力
 ## 安裝步驟
