@@ -36,3 +36,11 @@
 這裡輸入`y`
 
 ![image6](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image6.PNG)
+
+#### 進入虛擬環境
+建立完成後，輸入`activate test_env`進入虛擬環境
+
+![image7](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image7.PNG)
+
+當前方出現自己的環境名稱表示進入成功
+![image8](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image8.PNG)
