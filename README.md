@@ -29,6 +29,10 @@
 ![image4](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image4.PNG)
 
 #### 3. 建立虛擬環境
-在命令列輸入`conda create -n test_env pip python=3.6`，test_env是環境名稱，可以自己取
+在命令列輸入`conda create -n test_env pip python=3.6`，test_env是環境名稱，可以自己取，然後Python的版本是3.6
 
-![image5]()
+![image5](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image5.PNG)
+
+這裡輸入`y`
+
+![image6](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image6.PNG)
