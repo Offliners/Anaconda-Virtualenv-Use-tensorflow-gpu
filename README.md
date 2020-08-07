@@ -90,3 +90,18 @@ CUDA安裝軟體基本上會自動填入路徑
 將整個複製到`C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0`中
 
 ![image18](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image18.PNG)
+
+再進入環境變數看系統變數中的Path中
+
+![image19](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image19.PNG)
+
+是否有剛剛複製cuDNN的`bin`與`libnvvp`路徑，基本上系統會自動添加，若沒有需要手動加入
+
+![image20](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image20.PNG)
+
+#### 確認是否安裝成功
+回到`Anaconda Prompt`，進入已創建的虛擬環境，輸入`nvcc -V`
+
+若有跑出此畫面表示`CUDA 10.0`安裝成功
+
+![image21](https://github.com/Offliners/Anaconda-Virtualenv-Use-tensorflow-gpu/blob/master/image/image21.PNG)
